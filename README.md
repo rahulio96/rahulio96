@@ -5,6 +5,13 @@ I am a third-year student at California State University Sacramento, and I am pa
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulio96)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rahulio96)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rahul-g-3z//)  
+
+
+
 <!--
 **rahulio96/rahulio96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
