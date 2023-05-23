@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a third-year student at California State University Sacramento, and I am passionate about pursuing a career in software engineering. I am incredibly dedicated to gaining knowledge and experience in the field and I am seeking opportunities to not only improve my current skillset but to expand on it further.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulio96)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rahulio96/rahulio96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
