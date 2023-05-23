@@ -1,6 +1,6 @@
 ## Hi, I'm Rahul 👋
 
-I am a third-year student at California State University Sacramento, and I am passionate about pursuing a career in software engineering. I am incredibly dedicated to gaining knowledge and experience in the field and I am seeking opportunities to not only improve my current skillset but to expand on it further.
+I am a dedicated third-year student at California State University Sacramento, who is passionate about pursuing a career in software engineering. I aim to expand my knowledge and experience in the field, and to constantly seek new opportunities to enhance my skills and make meaningful contributions.
 
 The most recent project I worked on was a Pharmaceutical Study React JS web application for Vendia Inc. I co-leaded the project and worked extensively with our group leader, Angelo ([@angkaram](https://github.com/Angkaram)), to concept, design, develop, and test a secure and user-friendly web application to suit the client's needs. 
 
