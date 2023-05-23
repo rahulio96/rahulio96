@@ -6,17 +6,18 @@ The most recent project I worked on was a Pharmaceutical Study React JS web appl
 
 If interested in learning more, please feel free to check out the pinned repository below!
 
+## GitHub Statistics 💹
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulio96&show_icons=true&theme=transparent)
 
 
-## Skills and Experience
+## Skills and Experience 🖥
 * ⚛ React JS
 * 💻 HTML, CSS, JavaScript
 * 🐍 Python
 * ☕ Java
 
-## Contact Information
+## Contact Information 📞
 * Email: rahulgithub96@gmail.com
 
 
