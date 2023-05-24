@@ -8,7 +8,7 @@ If interested in learning more, please feel free to check out the pinned reposit
 
 ## GitHub Statistics 💹
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulio96&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulio96&show_icons=true&theme=github_dark)
 
 
 ## Skills and Experience 🖥
