@@ -8,8 +8,11 @@ If interested in learning more, please feel free to check out the pinned reposit
 
 ## GitHub Statistics 💹
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rahulio96&show_icons=true&theme=github_dark)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulio96&theme=react&line_height=40&hide=css"/> </a>
 
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulio96&show_icons=true&theme=github_dark)
+-->
 
 ## Skills and Experience 🖥
 * ⚛ React JS
