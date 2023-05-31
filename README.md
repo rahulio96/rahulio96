@@ -6,7 +6,7 @@ The most recent project I worked on was a Pharmaceutical Study React JS web appl
 
 If interested in learning more, please feel free to check out the pinned repository below!
 
-## GitHub Statistics 💹
+## GitHub Statistics 📈
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulio96&theme=react&line_height=40&hide=css"/> </a>
 
