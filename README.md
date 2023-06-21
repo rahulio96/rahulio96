@@ -4,12 +4,11 @@ I am a dedicated third-year student at California State University Sacramento, w
 
 The most recent and significant project I worked on was a Pharmaceutical Study React JS web application for Vendia Inc. I co-led the project and worked extensively with our group leader, Angelo ([@angkaram](https://github.com/Angkaram)), to concept, design, develop, and test a secure and user-friendly web application to suit the client's needs. 
 
-If interested in learning more, please feel free to check out the pinned repository below! (Pharmaceutical-Study-Web-App-Project)
+If interested in learning more, please feel free to check out the repository [here](https://github.com/rahulio96/Pharmaceutical-Study-Web-App-Project).
 
 ## GitHub Statistics 📈
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulio96&theme=react&line_height=25&hide=css"/> </a>
-
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulio96&show_icons=true&theme=github_dark)
