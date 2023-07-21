@@ -2,9 +2,15 @@
 
 I am a dedicated third-year student at California State University Sacramento, who is passionate about pursuing a career in software engineering. I aim to expand my knowledge and experience in the field, and to constantly seek new opportunities to enhance my skills and make meaningful contributions.
 
-The most recent and significant project I worked on was a Pharmaceutical Study React JS web application for Vendia Inc. I co-led the project and worked extensively with our group leader, Angelo ([@angkaram](https://github.com/Angkaram)), to concept, design, develop, and test a secure and user-friendly web application to suit the client's needs. 
+<!--### CodeDay Labs Internship -->
+Currently, I am a software engineer intern at CodeDay working to resolve issues on the [npm cli](https://github.com/npm/cli/) along with my teammate, [Aaron](https://github.com/Angkaram).
 
-If interested in learning more, please feel free to check out the repository [here](https://github.com/rahulio96/Pharmaceutical-Study-Web-App-Project).
+Our recent contributions have been included in **[npm v9.8.1](https://github.com/npm/cli/releases/tag/v9.8.1)**, and we remain committed to making more contributions. Being the world's biggest software registry, npm has over **17 million users**, and we hope that our changes can enhance the experience for them.
+
+<!--### Vendia Inc. Project -->
+The most recent and significant project I worked on was a **[Pharmaceutical Study Web App](https://github.com/rahulio96/Pharmaceutical-Study-Web-App-Project)** using React.js and the Vendia Client SDK for start-up company Vendia Inc. 
+
+I co-led the project and worked extensively with our group leader, [Angelo](https://github.com/Angkaram), to concept, design, develop, and test a secure and user-friendly web application to suit the client's needs. 
 
 ## GitHub Statistics 📈
 
@@ -15,8 +21,8 @@ If interested in learning more, please feel free to check out the repository [he
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulio96&theme=react&line_height=40&hide=css"/> </a>
 -->
 
-## Skills and Experience 🖥
-* ⚛ React JS
+## Skills 🖥
+* ⚛ React.js
 * 💻 HTML, CSS, JavaScript
 * 🐍 Python
 * ☕ Java
