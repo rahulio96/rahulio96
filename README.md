@@ -3,7 +3,7 @@
 I am a dedicated third-year student at California State University Sacramento, who is passionate about pursuing a career in software engineering. I aim to expand my knowledge and experience in the field, and to constantly seek new opportunities to enhance my skills and make meaningful contributions.
 
 <!--### CodeDay Labs Internship -->
-Currently, I am a software engineer intern at CodeDay working to resolve issues on the [npm cli](https://github.com/npm/cli/) along with my teammate, [Aaron](https://github.com/Angkaram).
+Currently, I am a software engineer intern at CodeDay working to resolve issues on the [npm cli](https://github.com/npm/cli/) along with my teammate, [Aaron](https://github.com/AaronHamilton965).
 
 Our recent contributions have been included in **[npm v9.8.1](https://github.com/npm/cli/releases/tag/v9.8.1)**, and we remain committed to making more contributions. Being the world's biggest software registry, npm has over **17 million users**, and we hope that our changes can enhance the experience for them.
 
