@@ -7,6 +7,12 @@ During the summer of 2023, I was a software engineer intern at CodeDay, working 
 
 Our first few contributions were included in **[npm v9.8.1](https://github.com/npm/cli/releases/tag/v9.8.1)**, and two more will likely be included in future npm versions. Being the world's biggest software registry, npm has over 17 million users, and we hope that our changes can enhance the experience for them.
 
+Pull requests opened during the internship: 
+1. [fix: much clearer npx 'canceled' error](https://github.com/npm/cli/pull/6642) 
+2. [docs: Added steps for using npm/npx locally to CONTRIBUTING.md](https://github.com/npm/cli/pull/6643) 
+3. [fix: prefix in .npmrc error log](https://github.com/npm/cli/pull/6685) 
+4. [fix: exclude non-root README.md/LICENSE files](https://github.com/npm/npm-packlist/pull/173)
+
 <!--### Vendia Inc. Project -->
 The most recent group project I worked on was a **[Pharmaceutical Study Web App](https://github.com/rahulio96/Pharmaceutical-Study-Web-App-Project)** using React.js for start-up company Vendia Inc. I co-led the project and worked extensively with our group leader, [Angelo](https://github.com/Angkaram), to engineer a web app tailored for the client. 
 
