@@ -3,7 +3,7 @@
 I am a dedicated third-year student at California State University Sacramento, who is passionate about pursuing a career in software engineering. I aim to expand my knowledge and experience in the field, and to constantly seek new opportunities to enhance my skills and make meaningful contributions.
 
 <!--### CodeDay Labs Internship -->
-During the summer of 2023, I was a software engineer intern at CodeDay, working to resolve multiple issues on the [npm CLI](https://github.com/npm/cli/) along with my teammate, [Aaron](https://github.com/AaronHamilton965). Our first two contributions were included in **[npm version 9.8.1](https://github.com/npm/cli/releases/tag/v9.8.1)**, and the rest will be included in npm version 10, when it releases. 
+During the summer of 2023, I was a software engineer intern at CodeDay, working to resolve multiple issues on the [npm CLI](https://github.com/npm/cli/) along with my teammate, [Aaron](https://github.com/AaronHamilton965). Our first two contributions were included in **[npm v9.8.1](https://github.com/npm/cli/releases/tag/v9.8.1)**, and the rest were made available in **[npm v10.0.0](https://github.com/npm/cli/releases/tag/v10.0.0)**! 
 
 Pull requests merged during the internship: 
 1. [fix: much clearer npx 'canceled' error](https://github.com/npm/cli/pull/6642) 
