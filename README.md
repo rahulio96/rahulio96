@@ -1,23 +1,21 @@
 ## Hi, I'm Rahul 👋
 
-I am a dedicated third-year student at California State University Sacramento, who is passionate about pursuing a career in software engineering. I aim to expand my knowledge and experience in the field, and to constantly seek new opportunities to enhance my skills and make meaningful contributions.
+I am a dedicated third-year student at California State University Sacramento, passionate about pursuing a career in software engineering. I aim to expand my knowledge and experience in the field, and to seek new opportunities to make meaningful contributions.
 
 <!--### CodeDay Labs Internship -->
-During the summer of 2023, I was a software engineer intern at CodeDay, working to resolve multiple issues on the [npm CLI](https://github.com/npm/cli/) along with my teammate, [Aaron](https://github.com/AaronHamilton965). Our first two contributions were included in [npm v9.8.1](https://github.com/npm/cli/releases/tag/v9.8.1), and the rest were made available in [npm v10.0.0](https://github.com/npm/cli/releases/tag/v10.0.0)! 
+During the summer of 2023, I was a software engineer intern at [CodeDay](https://www.codeday.org/), working to resolve multiple issues on the [npm CLI](https://github.com/npm/cli/) along with my teammate, [Aaron](https://github.com/AaronHamilton965). Our first two contributions were included in [npm v9.8.1](https://github.com/npm/cli/releases/tag/v9.8.1) and the rest were made available in [npm v10.0.0](https://github.com/npm/cli/releases/tag/v10.0.0), which delivered improvements to error handling, documentation, and package publishing to over 17 million npm users!
 
 <!--### Vendia Inc. Project -->
-The most recent group project I worked on was a [Pharmaceutical Study Web Application](https://github.com/rahulio96/Pharmaceutical-Study-Web-App-Project) using React.js and Firebase for start-up company [Vendia Inc.](https://www.vendia.com/) I co-led the project and worked extensively with our group leader, [Angelo](https://github.com/Angkaram), to engineer a web app tailored for the client.
+The most recent group project I worked on was a [Pharmaceutical Study Web Application](https://github.com/rahulio96/Pharmaceutical-Study-Web-App-Project) using React.js and Firebase for start-up company [Vendia Inc](https://www.vendia.com/), which was designed to incorporate Vendia's technology to simulate a complete pharmaceutical study. I co-led the project and worked extensively with the team leader, [Angelo](https://github.com/Angkaram), to engineer and present a web app tailored to the client's needs.
 
 Please feel free to check out any of the links above or my [Portfolio Wesbite](https://rahulio96.github.io/) if interested, and thanks for reading!
 
 ## GitHub Statistics 📈
 
-<a href=""> <img align="center" src="https://github-readme-stats-plum-alpha-59.vercel.app/api?username=rahulio96&line_height=25&hide=css&rank_icon=github&bg_color=70,172434,2b3137&title_color=fff&text_color=E1DDDD&icon_color=33CA7F&show_icons=true"/> </a>
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulio96&show_icons=true&theme=github_dark)
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulio96&theme=react&line_height=40&hide=css"/> </a>
--->
+<a href="" > <img align="center" src="https://github-readme-stats-plum-alpha-59.vercel.app/api?username=rahulio96&line_height=25&hide=css&rank_icon=github&show_icons=true&theme=github_dark"/> </a>
+<div>Credit: <a href="https://github.com/anuraghazra/github-readme-stats" >Anurag's GitHub stats</a></div>
+<!--<a href="" > <img style="height: 200px;" align="center" src="https://github-readme-stats-plum-alpha-59.vercel.app/api/top-langs/?username=rahulio96&theme=github_dark&line_height=40&hide=css"/> </a>-->
 
 ## Technical Skills 🖥
 * ⚛ React.js
