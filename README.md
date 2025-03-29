@@ -11,9 +11,9 @@ Please feel free to check out any of the links above or my [portfolio](https://r
 ## GitHub Statistics 📈
 <a href="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-plum-alpha-59.vercel.app/api?username=rahulio96&line_height=25&hide=css&rank_icon=github&show_icons=true&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-plum-alpha-59.vercel.app/api?username=rahulio96&line_height=25&hide=css&rank_icon=github&show_icons=true&theme=github_light">
-    <img align="center" src="https://github-readme-stats-plum-alpha-59.vercel.app/api?username=rahulio96&line_height=25&hide=css&rank_icon=github&show_icons=true&theme=transparent" alt="GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-plum-alpha-59.vercel.app/api?username=rahulio96&line_height=25&hide=stars&show_icons=true&rank_icon=github&show=reviews&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-plum-alpha-59.vercel.app/api?username=rahulio96&line_height=25&hide=stars&show_icons=true&rank_icon=github&show=reviews&theme=github_light">
+    <img align="center" src="https://github-readme-stats-plum-alpha-59.vercel.app/api?username=rahulio96&line_height=25&hide=stars&rank_icon=github&show_icons=true&show=reviews&theme=transparent" alt="GitHub Stats">
   </picture>
 </a>
 <br><br>
