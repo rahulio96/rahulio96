@@ -1,12 +1,10 @@
 ## Hi, I'm Rahul 👋
 
-I'm a computer science student at California State University, Sacramento, passionate about software engineering, focusing on frontend and full-stack development. I'm eager to strengthen my skills, learn new technologies, and contribute to impactful projects.
+I'm a computer science student at California State University Sacramento, passionate about software engineering, focusing on frontend and full-stack development with an interest in deep learning and AI.
 
-I've made contributions to open source as a software engineer intern at [CodeDay](https://www.codeday.org/) where I worked alongside my teammate, [Aaron](https://github.com/AaronHamilton965), to resolve multiple issues on the [npm CLI](https://github.com/npm/cli/). Our contributions were made available to users in [npm v9.8.1](https://github.com/npm/cli/releases/tag/v9.8.1) and [npm v10.0.0](https://github.com/npm/cli/releases/tag/v10.0.0) releases.
+I'm eager to strengthen my skills, learn new technologies, and make meaningful contributions to impactful, widely-used projects.
 
-Additionally, I've built projects to learn new technologies and provide value to clients. Currently, I'm developing and designing [ChemTrack](https://github.com/ekjyotshinh/ChemTrack), a mobile app that tracks chemical inventory for high schools, set to launch in May. I also co-led a [Pharmaceutical Study Web App](https://github.com/Angkaram/Pharmaceutical-Study-Web-App-Project) for [Vendia Inc.](https://www.vendia.com/), by working closely with team lead [Angelo](https://github.com/Angkaram) to tailor the solution to the client's needs.
-
-Please feel free to check out any of the links above or my [portfolio](https://rahulio.dev/) if interested, and thanks for reading!
+Please feel free to check out my [portfolio](https://rahulio.dev/) if interested, and thanks for reading!
 
 ## GitHub Statistics 📈
 <a href="">
