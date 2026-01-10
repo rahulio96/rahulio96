@@ -1,6 +1,6 @@
 ## Hi, I'm Rahul 👋
 
-I'm a computer science student at California State University Sacramento, passionate about software engineering, focusing on frontend and full-stack development with an interest in deep learning and AI.
+I'm a software engineer and computer science graduate from California State University Sacramento, focusing on frontend and full-stack development with a growing interest in deep learning and AI.
 
 I'm eager to strengthen my skills, learn new technologies, and make meaningful contributions to impactful, widely-used projects.
 
